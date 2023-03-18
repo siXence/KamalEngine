@@ -14,6 +14,8 @@
 # =============================================================
 
 import sys
+sys.path.append(r'/content/KamalEngine')
+
 
 from kamal import vision, engine, callbacks
 from kamal.vision import sync_transforms as sT
