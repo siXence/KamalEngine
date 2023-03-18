@@ -13,6 +13,8 @@
 # limitations under the License.
 # =============================================================
 
+import sys
+
 from kamal import vision, engine, callbacks
 from kamal.vision import sync_transforms as sT
 import kamal
